@@ -10,7 +10,7 @@ function App() {
       <hr/>
       <ImgComponent />
       <hr/>
-      <ButtonClass label = "button 2" />
+      <ButtonClass />
       
     </div>
   );
