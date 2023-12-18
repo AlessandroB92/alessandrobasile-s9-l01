@@ -6,7 +6,7 @@ import ImgComponent from './components/ImgComponent';
 function App() {
   return (
     <div className="App">
-      <Button label = "know 1" />
+      <Button label = "I don't know 1" />
       <hr/>
       <ImgComponent />
       <hr/>
