@@ -38,11 +38,12 @@
   }
 }
 button {
+  margin: 0.3em;
   padding: 1em 2em;
   background-color: rgb(37, 69, 69);
   border-radius: 20px;
   font-weight: bold;
-  color: antiquewhite;
+  color: white;
 }
 button:hover {
   background-color: rgb(115, 130, 156);
